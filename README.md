@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="center">My name is Lohit and I'm from Andhra Pradesh </h2>
+<h2 align="left">My name is Lohit and I'm from Andhra Pradesh </h2>
 
 ###
 
