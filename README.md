@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="center">My name is ... and I'm from Andhra Pradesh h2>
+<h2 align="center">My name is ... and I'm from Andhra Pradesh </h2>
 
 ###
 
