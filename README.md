@@ -1,7 +1,7 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
-
+<img src="c:\User\Lohit\Downloads\Gemini_Generated_Image_gfz6x4gfz6x4gfz6.png" width="150"/>
 <h2 align="left">My name is Lohit  </h2>
 
 ###
