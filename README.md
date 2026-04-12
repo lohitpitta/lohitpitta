@@ -36,6 +36,14 @@
   <img width="12" />
 
 </div>
+<h2 align="left">📚 Currently Learning</h2>
+
+<ul>
+  <li>Operating System and Privacy Security</li>
+  <li>Networking</li>
+  <li>Java Script</li>
+  <li>Object-Oriented Programming in CPP</li>
+</ul>
   
   
 </div>
