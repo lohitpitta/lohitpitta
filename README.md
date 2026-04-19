@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="animated.png" width="300">
+</p>
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
