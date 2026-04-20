@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="avathar.png" width="100%" style="margin-bottom: -20px;">
+  <img src="avathar.png" width="100%" length="90%" style="margin-bottom: -20px;">
 </p>
 <h1 align="left">Hey 👋 What's up?</h1>
 
