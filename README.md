@@ -51,24 +51,20 @@
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/aman-raj-081905211">
-<img src="https://img.shields.io/badge/LinkedIn-Charan-blue?style=for-the-badge&logo=linkedin"/>
+<a href="https://www.linkedin.com/in/lohit-p-788047377/">
+<img src="https://img.shields.io/badge/linkedin-lohit-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="https://twitter.com/Code_Like_Aman">
-<img src="https://img.shields.io/badge/Twitter-CodeLikeAman-1DA1F2?style=for-the-badge&logo=twitter"/>
+<a href="https://x.com/LohitPitta">
+<img src="https://img.shields.io/badge/X-Lohit-1DA1F2?style=for-the-badge&logo=twitter"/>
 </a>
 
-<a href="mailto:aman08.stars@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail"/>
+<a href="https://www.instagram.com/lohit29x/">
+<img src="https://img.shields.io/badge/Instagram-it's mee__wiz-E4405F?style=for-the-badge&logo=instagram"/>
 </a>
 
-<a href="https://www.instagram.com/epicure_wiz">
-<img src="https://img.shields.io/badge/Instagram-epicure__wiz-E4405F?style=for-the-badge&logo=instagram"/>
-</a>
-
-<a href="https://www.hackerrank.com/profile/aman08_stars">
-<img src="https://img.shields.io/badge/HackerRank-Charan-2EC866?style=for-the-badge&logo=hackerrank"/>
+<a href="https://leetcode.com/u/pp4mvBnZue/">
+<img src="https://img.shields.io/badge/Leetcode-Code like mee-2EC866?style=for-the-badge&logo=leetcode"/>
 </a>
 
 </div>
