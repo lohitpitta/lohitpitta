@@ -67,7 +67,7 @@
 <img src="https://img.shields.io/badge/Leetcode-Code like mee-2EC866?style=for-the-badge&logo=leetcode"/>
 </a>
 
-<a href="https://tryhackme.com/p/lohitpitta48">
+<a href="https://tryhackme.com/p/lohitpitta">
 <img src="https://img.shields.io/badge/TryHackMe-Hack It-2EC866?style=for-the-badge&logo=tryhackme"/>
 </a>
 
