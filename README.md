@@ -60,11 +60,15 @@
 </a>
 
 <a href="https://www.instagram.com/lohit29x/">
-<img src="https://img.shields.io/badge/Instagram-it's mee__wiz-E4405F?style=for-the-badge&logo=instagram"/>
+<img src="https://img.shields.io/badge/Instagram-it's mee-E4405F?style=for-the-badge&logo=instagram"/>
 </a>
 
 <a href="https://leetcode.com/u/pp4mvBnZue/">
 <img src="https://img.shields.io/badge/Leetcode-Code like mee-2EC866?style=for-the-badge&logo=leetcode"/>
+</a>
+
+<a href="https://tryhackme.com/p/lohitpitta48">
+<img src="https://img.shields.io/badge/TryHackMe-Hack It-2EC866?style=for-the-badge&logo=tryhackme"/>
 </a>
 
 </div>
