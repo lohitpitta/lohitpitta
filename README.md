@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="avathar.png" width="100%" length="90%" style="margin-bottom: -20px;">
-</p>
 <h1 align="left">Hey 👋 What's up?</h1>
 
 <h2 align="left">My name is Lohit  </h2>
