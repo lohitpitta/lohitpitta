@@ -39,7 +39,8 @@
 <ul>
   <li>Operating System and Privacy Security</li>
   <li>Networking</li>
-  <li>Java Script</li>
+  <li>JAVA <li>
+  <li>DataBase<li>
   <li>Object-Oriented Programming in CPP</li>
 </ul>
   
