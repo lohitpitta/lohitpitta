@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning Networking and Operating System<br>🎯 Goals: Penetration Tester</p>
+<p align="left"><br>📚 I'm currently learning Networking and Operating System<br>🎯 Goals: Penetration Tester</p>
 
 ###
 
